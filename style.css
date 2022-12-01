@@ -1,0 +1,64 @@
+h1 {
+    color: rgb(210 151 76);
+    font-weight: bold;
+    }
+
+h2 {
+    color: green;
+    }
+
+h3 {
+    
+    margin-top: 100px;
+    color: green;
+    font-size: 40px;
+    }
+
+body
+{
+  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxGsspi72u-nj958yWgZfqiE3COMCdtU0w9e04IKiRuU6QuaQH6uGJ5e0SX6kPr06uZo4&usqp=CAU);
+    }
+    
+    
+
+
+a {
+    color: rgb(255 204 0) ;
+    font-weight: bold;
+    
+    
+    }
+
+ul {
+  list-style-image: url("https://media.tenor.com/jeYb8iK3YfsAAAAi/skull-skullgif.gif");
+margin-top: -100px;
+padding: 75px;
+font-size: 25px;
+  }
+
+p
+{
+    color: rgb(135 206 235);
+
+    font-size: 25px
+
+    }
+
+th
+
+{
+    color: rgb(220 20 60);
+
+    font-size: 40px;
+    }
+
+td {
+    padding-top: 5px;
+  padding-bottom: 45px;
+  padding-left: 50px;
+  padding-right: 50px;
+
+    }
+
+
+    
